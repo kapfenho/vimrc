@@ -1,6 +1,6 @@
 syntax enable
 
-set belloff=all         " we dont need no beeping software
+set vb t_vb=            " we dont need no beeping software
 
 set smarttab            " separate indent and rest
                         "     indent: shiftwidth
